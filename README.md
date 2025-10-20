@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail.png" alt="Blinkit Dashboard Thumbnail" width="1000" />
+</p>
+
 # 🛒 Blinkit Sales Dashboard (Power BI)
 
 ### 📊 Overview
