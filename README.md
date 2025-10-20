@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="thumbnail.png" alt="Blinkit Dashboard Thumbnail" width="1000" />
+  <img src="Thumbnail.png" alt="Blinkit Dashboard Thumbnail" width="1000" />
 </p>
 
 # 🛒 Blinkit Sales Dashboard (Power BI)
