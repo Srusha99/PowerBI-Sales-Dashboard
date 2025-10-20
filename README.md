@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="Thumbnail.png" alt="Blinkit Dashboard Thumbnail" width="1000" />
+  <img src="Thumbnail.png" alt="Blinkit Dashboard Thumbnail" width="100%" />
 </p>
 
 # 🛒 Blinkit Sales Dashboard (Power BI)
 
 ### 📊 Overview
-This project showcases an interactive **Power BI Dashboard** built for **Blinkit (formerly Grofers)** to analyze sales performance, customer trends, and product distribution.  
+This project showcases an interactive **Power BI Dashboard** built for **Blinkit (formerly Grofers)** to analyze sales performance, customer trends, and product distribution.  
 The dashboard provides real-time insights into business performance, helping stakeholders make data-driven decisions.
 
 ---
@@ -36,29 +36,30 @@ The dashboard provides real-time insights into business performance, helping sta
 ---
 
 ### 🖼️ Dashboard Preview
-Add your dashboard image here once uploaded 👇
 
-![Blinkit Dashboard Preview]
+<p align="center">
+  ![Blinkit Dashboard Preview](Thumbnail.png)
+</p>
 
 ---
 
 ### ⚙️ Tools Used
-- Microsoft Power BI Desktop  
-- Microsoft Excel / CSV (Data Source)  
+- Microsoft Power BI Desktop  
+- Microsoft Excel / CSV (Data Source)  
 - DAX (Data Analysis Expressions)
 
 ---
 
 ### 🚀 How to View
-1. Download the `.pbix` file from this repository.  
-2. Open it using **Power BI Desktop**.  
+1. Download the `.pbix` file from this repository.  
+2. Open it using **Power BI Desktop**.  
 3. Explore the dashboard using filters and visuals.
 
 ---
 
 ### 👩‍💻 Author
-**Srusha Gedam**  
-💼 *Aspiring Data Analyst / Power BI Developer*  
+**Srusha Gedam**  
+💼 *Aspiring Data Analyst / Power BI Developer*  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/srushagedam)
 
 ---
